@@ -17,4 +17,5 @@
    and you can view the launched page by [clicking here](https://matt0stark.github.io/semantic-html/)
 
 **screenshot**
-
+    ![the top of the page](./assets/images/horiseon_screenshot1.png)
+    ![the content of the page](./assets/images/horiseon_screenshot2.png)
