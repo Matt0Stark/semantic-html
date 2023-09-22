@@ -12,7 +12,7 @@
 
 ## links
 
-   you can view the GitHub repository for this page by [clicking here](https://github.com/Matt0Stark/semantic-html);
+   you can view the GitHub repository for this page by [clicking here](https://github.com/Matt0Stark/semantic-html)
 
    and you can view the launched page by [clicking here](https://matt0stark.github.io/semantic-html/)
 
