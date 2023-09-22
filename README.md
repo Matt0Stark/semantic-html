@@ -5,7 +5,6 @@
 
 ## work done 
     added title for search engine optimization
-    moved footer into footer section
     adjusted semantic tags
     added alt tags to the images
     created README.md
